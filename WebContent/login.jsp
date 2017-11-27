@@ -30,8 +30,8 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
            <td><input type="text" name="username"/></td>
        </tr>
        <tr>
-           <td>班级</td>
-           <td><input type="text" name="clazz"/></td>
+           <td>密码</td>
+           <td><input type="text" name="password"/></td>
        </tr>
        <tr>
            <td colspan="2"> <input type="submit" value="提交"/> </td>

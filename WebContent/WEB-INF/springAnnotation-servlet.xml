@@ -14,7 +14,7 @@
     <!-- 开启注解 -->
    <mvc:annotation-driven />
     <!-- 启用自动扫描 -->
-    <context:component-scan base-package="com.lovo.controller" />
+    <context:component-scan base-package="com.springannotation.controller" />
 
 
 <!--配置视图解析器  -->

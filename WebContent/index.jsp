@@ -4,11 +4,14 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Insert title here</title>
+<title>index</title>
 </head>
 <body>
-test11
 
-an
+<h1>this is index.jsp</h1>
+输入用户名:${username}
+
+
+
 </body>
 </html>
